@@ -4,16 +4,16 @@ url: 'https://danielnguyen,github.io'
 baseurl: '/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles
+style: styles
 #style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
-style: styles-6
+#style: styles-6
 
 #Profile information
 name: Daniel Nguyen
-tagline: Senior Full Stack Developer and Team Lead
+tagline: Full Stack Developer and Team Lead
 pic: daniel-nguyen.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: '<ul>
 <li>Self-motivated to achieve peak performance and meet business objectives.</li>
@@ -26,7 +26,7 @@ summary: '<ul>
 #sidebar links
 # email: hello@webjeda.com
 # phone: 012 345 6789
-website: danielnguyen,github.io
+website: danielnguyen.github.io
 linkedin: danielnguyenhuu
 github: danielnguyen
 #Update all the sections by editing the files inside _data folder.
