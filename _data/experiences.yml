@@ -1,0 +1,42 @@
+- experience:
+  role: Software Development Team Lead, IBM Security Risk SaaS Offering
+  time: February 2017 - Septempber 2017
+  company: IBM, Markham
+  details: "<ul>
+    <li>Designed and developed the microservice architecture for a new Security SaaS service (Node.js-based).</li>
+    <li>Designed the DevOps and Continuous Integration processes.</li>
+    <li>Translated Product Management requirements into technical requirements and specifications for the development squads.</li>
+    <li>Responsible for Sprint management and task breakdown.</li>
+    <li>Enhanced development team agility and velocity by introducing a dynamic squad-based system.</li>
+  </ul>"
+- experience:
+  role: Software Development Team Lead, IBM Application Security on Cloud
+  time: July 2016 - February 2017
+  company: IBM, Markham
+  details: "<ul>
+    <li>Technical team lead for the Application Security on Cloud UI/UX team based in Markham.</li>
+    <li>Developed features for Application Security on Cloud's UI microservice.</li>
+    <li>Deployed and maintained the Application Security on Cloud's UI microservice on IBM Bluemix.</li>
+    <li>Translated Product Management requirements into technical requirements for the UI team.</li>
+    <li>Designed and oversaw the successful migration of the ASoC UI component from legacy SCM and build systems to GitHub Enterprise and Travis CI.</li>
+    <li>Designed and implemented the DevOps process for the UI team.</li>
+  </ul>"
+- experience:
+  role: Extreme Blue Project Mentor
+  time: May 2016 - August 2016
+  company: IBM, Markham
+  details: "<ul>
+    <li>Mentored an Extreme Blue team to solve a business problem in the Security space using Machine Learning and IBM Cognitive services.</li>
+  	<li>Provided guidance and leadership to the Extreme Blue team, and ensuring that they are well prepared for their presentation to IBM Corporate Executives.</li>
+  </ul>"
+- experience:
+  role: Software Developer, IBM Security AppScan Source
+  time: January 2014 - July 2016
+  company: IBM, Markham
+  details: "<ul>
+    <li>Developed features for the AppScan Source product.</li>
+    <li>Developed the CLI for Static Analyzer.</li>
+    <li>Developed several code discovery strategies for Static Analyzer.</li>
+    <li>Developed the IntelliJ IDEA Static Analyzer plugin.</li>
+    <li>Supported internal customers in the successful adoption of AppScan product suite and Application Security on Cloud.</li>
+  </ul>"
