@@ -6,6 +6,6 @@
   link: "https://github.com/danielnguyen/node-ts-boilerplate"
   tagline: "A boilerplate for Node.js applications and microservices written in TypeScript."
 - project:
-  title: Mavis
-  link: "https://github.com/danielnguyen/mavis"
-  tagline: "A chatbot to assist with vehicle management and maintenance. (in progress)"
+  title: Mavis Bot
+  link: "https://github.com/danielnguyen/mavis-bot"
+  tagline: "A personal home management assistant. (in progress)"
